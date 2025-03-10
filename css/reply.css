@@ -1,0 +1,21 @@
+.styling{
+    text-align: center;
+    background-color: white;
+    /* padding: 5px 5px; */
+    color: black;
+}
+.buttonx{
+    padding: 7px 7px;
+    background-color:goldenrod;
+    font-size: 15px;   
+    border: 10px;
+    border-color: white;
+    
+}
+a{
+   text-decoration: solid;
+}
+a:hover{
+    color: white;
+    text-decoration: solid;
+}
