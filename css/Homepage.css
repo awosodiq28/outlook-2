@@ -1,0 +1,80 @@
+.backgroundp{
+    background-image: url(../image/78_3a53c38a2dc671fb4daf.jpg);
+    position: relative;
+    background-color: white;
+    background-size: cover;
+    background-position-y:8%;
+}
+@media (max-width: 767.98px) { 
+.backgroundp{
+    background-color: white;
+    background-image: none;
+}
+}
+.formsection{
+    background-color: white;
+    padding-top: 55px;
+    padding-bottom: 60px;
+    padding-left: 45px;
+    padding-right: 45px;
+    margin-top: 210px;
+    box-shadow: 2px 2px 8px -1px rgb(154, 152, 152);
+
+}
+@media (max-width: 767.98px) { 
+.formsection{
+    box-shadow: none;
+    background-color: none;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 15px;
+}
+}
+.formsection2{
+    background-color: white;
+    padding-top: 8px;
+    padding-bottom: 0px;
+    padding-left: 60px;
+    margin-top: 30px;
+    
+}
+.termsandprivacy{
+    font-size: 17px;
+    color: white;
+    margin-top: 140px;
+   text-align: center;
+}
+@media (max-width: 767.98px) { 
+.termsandprivacy{
+    font-size: 12px;
+    color:  rgb(116, 116, 116);
+    margin-top: 150px;
+   text-align: left;
+   line-height: 12px;
+}
+}
+.mouseover{
+    background-color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 45px;
+    padding-right: 45px;
+    margin-top: 30px;
+    box-shadow: 2px 2px 8px -1px rgb(154, 152, 152);
+}
+@media (max-width: 767.98px){
+    .mouseover{
+    background-color: white;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 30px;
+    border: solid 2px rgb(154, 152, 152) ;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: none;
+    }
+}
