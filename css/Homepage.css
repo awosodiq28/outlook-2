@@ -4,7 +4,7 @@
     background-color: white;
     background-size: cover;
     background-position-y:8%;
-    height: auto;
+    
 }
 @media (max-width: 767.98px) { 
 .backgroundp{
@@ -14,11 +14,11 @@
 }
 .formsection{
     background-color: white;
-    padding-top: 55px;
-    padding-bottom: 60px;
-    padding-left: 45px;
-    padding-right: 45px;
-    margin-top: 180px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 150px;
     box-shadow: 2px 2px 8px -1px rgb(154, 152, 152);
 
 }
@@ -44,14 +44,16 @@
 .termsandprivacy{
     font-size: 17px;
     color: white;
-    margin-top: 140px;
-   text-align: center;
+    text-align: right;
+    line-height: 20px;
+    
+    
 }
 @media (max-width: 767.98px) { 
 .termsandprivacy{
     font-size: 12px;
     color:  rgb(116, 116, 116);
-    margin-top: 150px;
+    margin-top: 10px;
    text-align: left;
    line-height: 12px;
 }
@@ -78,4 +80,33 @@
     margin-right: 20px;
     box-shadow: none;
     }
+}
+a{
+    color:  rgb(0, 103, 184);
+    
+}
+a:hover{
+    color:rgb(82, 81, 81) ;
+}
+a strong{
+    color: white;
+    text-decoration: underline;
+}
+a strong:hover{
+    color: white;
+}
+.mouseover:hover{
+    background-color: rgb(227, 226, 226);
+}
+.mouseover1:hover{
+    background-color: rgb(227, 226, 226);
+    
+}
+.mouseover1{
+    border: none;
+    background-color: white;
+    font-size: 20px;
+    font-weight: 400;
+    padding-right: 250px;
+    padding-left: 20px;
 }
