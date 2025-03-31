@@ -25,7 +25,7 @@
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 150px;
-    max-width: 25%;
+    max-width: 40%;
     
 
 
@@ -70,6 +70,7 @@
     background-color: white;
     margin-top: 30px;
     box-shadow: 2px 2px 8px -1px rgb(154, 152, 152);
+    margin-bottom:60px ;
 }
 @media (max-width: 767.98px){
     .mouseover{
@@ -115,7 +116,6 @@ a strong:hover{
     padding-left: 20px;
     padding-top: 5px;
     padding-bottom: 5px;
-    margin-bottom: 60px;
     margin-left: 60px;
     margin-right: 60px;
 }
