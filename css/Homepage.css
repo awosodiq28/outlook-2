@@ -6,8 +6,8 @@
     background-position-y:8%;
     margin-left: 100px;
     margin-right: 100px;
-    height:600px;
-    line-height: 1.2px;
+    height:max-content;
+   
     
 }
 @media (max-width: 767.98px) { 
@@ -18,12 +18,12 @@
 }
 .formsection{
     background-color: white;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 45px;
-    padding-right: 45px;
-    height: 100px;
-    width:70px;
+    padding-top:0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 500px;
+    width:500px;
     box-sizing: border-box;
     box-shadow: 2px 2px 8px -1px rgb(154, 152, 152);
     ma
