@@ -4,8 +4,10 @@
     background-color: white;
     background-size: cover;
     background-position-y:8%;
-    padding-top: 70px;
+    padding-top: 100px;
     padding-bottom: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
     
 }
 @media (max-width: 767.98px) { 
