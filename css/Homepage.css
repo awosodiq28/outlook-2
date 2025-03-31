@@ -5,9 +5,6 @@
     background-size: cover;
     background-position-y:8%;
     height:max-content;
-    width:fit-content;
-   
-    
 }
 @media (max-width: 767.98px) { 
 .backgroundp{
