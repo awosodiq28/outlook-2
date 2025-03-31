@@ -125,3 +125,7 @@ a strong:hover{
     color: black;
     text-decoration: none;
 }
+.formsectioncontainer{
+    margin-right: 0px;
+    margin-left: 0px;
+}
