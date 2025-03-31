@@ -18,13 +18,14 @@
     background-color: white;
     padding-top:40px;
     padding-bottom: 40px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
     box-sizing: border-box;
     box-shadow: 2px 2px 8px -1px rgb(154, 152, 152);
     margin-left: 0px;
-    margin-right: 20px;
-    margin-top: 150px;
+    margin-right: 0px;
+    margin-top: 200px;
+    margin-bottom: 200px;
     max-width: 50%;
     max-height:50% ;
     
@@ -78,8 +79,8 @@
     background-color: white;
     padding-top: 4px;
     padding-bottom: 4px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
     margin-top: 30px;
     border: solid 2px rgb(154, 152, 152) ;
     margin-left: 20px;
