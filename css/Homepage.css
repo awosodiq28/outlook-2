@@ -4,10 +4,11 @@
     background-color: white;
     background-size: cover;
     background-position-y:8%;
-    margin-top: 150px;
-    margin-bottom: 180px;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: fit-content;
     
 }
 @media (max-width: 767.98px) { 
