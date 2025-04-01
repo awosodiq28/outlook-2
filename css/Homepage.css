@@ -30,8 +30,8 @@
 .formsection{
     box-shadow: none;
     background-color: none;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-top: 0px;
+    padding-bottom: 0px;
     padding-left: 0px;
     padding-right: 0px;
     margin-top: 20px;
@@ -53,6 +53,7 @@
     color: white;
     text-align: right;
     line-height: 10px;
+    margin-bottom: 0px;
     
     
 }
@@ -69,7 +70,7 @@
     background-color: white;
     margin-top: 30px;
     box-shadow: 2px 2px 8px -1px rgb(154, 152, 152);
-    margin-bottom:180px;
+    margin-bottom:160px;
     max-width: 45%;
     margin-left: 0px;
     margin-right: 0px;
@@ -100,6 +101,12 @@ a:hover{
 a strong{
     color: white;
     text-decoration: underline;
+}
+@media (max-width: 767.98px){
+    a strong{
+        color: rgb(116, 116, 116) ;
+    text-decoration: none;
+    }
 }
 a strong:hover{
     color: white;
