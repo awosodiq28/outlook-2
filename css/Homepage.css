@@ -110,6 +110,7 @@ a strong{
 }
 a strong:hover{
     color: white;
+    text-decoration: none;
 }
 .mouseover:hover{
     background-color: rgb(227, 226, 226);
