@@ -32,13 +32,13 @@
     background-color: white;
     padding-top: 25px;
     padding-bottom: 35px;
-    padding-left: 15px;
+    padding-left: 25px;
     padding-right: 20px;
     border: solid 3px rgb(203, 202, 202);
     box-shadow: 2px 2px 8px 1px rgb(154, 152, 152);
     max-width:70%;
     margin-left: 110px;
-    line-height: 25px;
+    line-height: 35px;
 }
 @media (max-width: 767.98px){
     .secure2{
