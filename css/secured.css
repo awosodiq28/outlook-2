@@ -32,12 +32,12 @@
     background-color: white;
     padding-top: 35px;
     padding-bottom: 25px;
-    padding-left: 37px;
-    padding-right: 0px;
+    padding-left: 25px;
+    padding-right: 5px;
     border: solid 3px rgb(203, 202, 202);
     box-shadow: 2px 2px 8px 1px rgb(154, 152, 152);
     max-width:70%;
-    margin-left: 140px;
+    margin-left: 130px;
 }
 @media (max-width: 767.98px){
     .secure2{
