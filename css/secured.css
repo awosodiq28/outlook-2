@@ -30,10 +30,10 @@
 } */
 .secure2{
     background-color: white;
-    padding-top: 35px;
+    padding-top: 25px;
     padding-bottom: 25px;
-    padding-left: 25px;
-    padding-right: 5px;
+    padding-left: 15px;
+    padding-right: 10px;
     border: solid 3px rgb(203, 202, 202);
     box-shadow: 2px 2px 8px 1px rgb(154, 152, 152);
     max-width:70%;
